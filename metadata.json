@@ -1,0 +1,6 @@
+{
+  "name": "별채 (星寨)",
+  "description": "대한민국에서 가장 높은 고원도시 태백의 은하수와 폐광마을을 연결하는 고품격 분산형 스테이 브랜드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
